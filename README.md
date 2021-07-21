@@ -3,6 +3,7 @@ Este simple script que consulta dos webs ([primera web](https://smartybro.com/ca
 
 ## EJECUCIÓN
 Para ejecutar el programa introduzca en la terminal el siguiente comando:
+
 `bash cupones_udemy.sh`
 
 ## FUNCIONAMIENTO
