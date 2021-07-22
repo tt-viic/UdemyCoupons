@@ -7,7 +7,7 @@ Para ejecutar el programa introduzca en la terminal el siguiente comando:
 `bash cupones_udemy.sh`
 
 ## FUNCIONAMIENTO
-En cuestión de segundos aparecerán los títulos con sus respectivos links con los cupones de descuento abajo
+En cuestión de segundos aparecerán los títulos con sus respectivos links de descuento abajo.
 
 
 ![udemy_coupons_mainxd](https://user-images.githubusercontent.com/78870476/126552870-c1074377-3892-4c8d-862a-f7335544bdef.png)
