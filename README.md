@@ -11,5 +11,5 @@ Para ejecutar el programa introduzca en la terminal el siguiente comando:
 
 ![udemy_coupons_mainxd](https://user-images.githubusercontent.com/78870476/126552870-c1074377-3892-4c8d-862a-f7335544bdef.png)
 
-
-![HACKING_ESPAÑA](https://user-images.githubusercontent.com/78870476/126561372-37151d21-3681-4234-b85f-ef3a7b2e0b95.jpeg)
+<p align = "center"> ![HackingEspaña_transparente](https://user-images.githubusercontent.com/78870476/126621491-07a3248c-3f61-4ec6-8ae8-e4a9ae062d4f.png)
+</p>
