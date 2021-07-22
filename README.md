@@ -17,7 +17,7 @@ En cuestión de segundos aparecerán los títulos con sus respectivos links de d
 
 
 </H1>
-<FONT SIZE=7>A</font>
+<FONT SIZE=30>A</font>
 <center>
   <img src="https://user-images.githubusercontent.com/78870476/126621491-07a3248c-3f61-4ec6-8ae8-e4a9ae062d4f.png" alt="HackingEspaña_transparente" />
 </center>
