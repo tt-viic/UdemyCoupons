@@ -10,6 +10,10 @@ Para ejecutar el programa introduzca en la terminal el siguiente comando:
 
 
 ![udemy_coupons_mainxd](https://user-images.githubusercontent.com/78870476/126552870-c1074377-3892-4c8d-862a-f7335544bdef.png)
+<H1> 
 
 
-<img src="https://user-images.githubusercontent.com/78870476/126621491-07a3248c-3f61-4ec6-8ae8-e4a9ae062d4f.png" alt="HackingEspaña_transparente" align="center"/>
+</H1>.
+<center>
+  <img src="https://user-images.githubusercontent.com/78870476/126621491-07a3248c-3f61-4ec6-8ae8-e4a9ae062d4f.png" alt="HackingEspaña_transparente" />
+</center>
