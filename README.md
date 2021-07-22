@@ -1,5 +1,5 @@
 # UdemyCoupons
-Este simple script que consulta dos webs ([primera web](https://smartybro.com/category/udemy-coupon-100-off/), [segunda web](https://udemycoupons.me/))al ejecutarse saca por pantalla todos los cupones de [Udemy](https://www.udemy.com/) activos con el 100% de descuento.
+Este simple script que consulta dos webs ([primera web](https://smartybro.com/category/udemy-coupon-100-off/), [segunda web](https://udemycoupons.me/)) al ejecutarse saca por pantalla todos los cupones de [Udemy](https://www.udemy.com/) activos con el 100% de descuento.
 
 ## EJECUCIÓN
 Para ejecutar el programa introduzca en la terminal el siguiente comando:
